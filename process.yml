@@ -1,0 +1,6 @@
+apps:
+  - script: ./server/server.js
+    name: cnodejs
+    env_production:
+      NODE_ENV: production
+      HOST: localhost
