@@ -13,9 +13,9 @@
     "production": {
       "user": "root",
       "host": "sugarac.com",
-      "repo": "git@gitee.com:jokcylou/react-cnode-tech.git",
+      "repo": "git@github.com:sugarac/react-cnodejs.org.git",
       "ref": "origin/master",
-      "path": "/root/deploy/jnode-master",
+      "path": "/root/deploy/react-cnodejs.org-master",
       "post-deploy": "npm install && npm run deploy && pm2 startOrRestart ecosystem.json --env production"
     }
   }
