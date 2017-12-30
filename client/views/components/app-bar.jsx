@@ -77,7 +77,7 @@ class ButtonAppBar extends React.Component {
             </IconButton>
             <Typography type="title" color="inherit" className={classes.flex}>
               {/* Sugar for <a href="https://cnodejs.org" color="inherit">CNodejs.org</a> */}
-              Sugar for CNodejs.org
+              CNode: Professional Node.js Chinese Community
             </Typography>
             {
               user.isLogin ?
