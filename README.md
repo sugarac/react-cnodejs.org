@@ -30,7 +30,7 @@ pm2 start process.yml
 visit your server's public IP or bound domain at your browser
 ```
 
-### Code Tree
+### Project Structure
 
 ```
 ├─ build
