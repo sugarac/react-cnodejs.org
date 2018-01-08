@@ -1,6 +1,6 @@
 ## Sugar for CNodejs.org
 
-Material UI version of cnodejs.org. Demo: [http://cnodejs.sugarac.com](http://cnodejs.sugarac.com)
+Material UI version of cnodejs.org. Website: [http://cnodejs.sugarac.com](http://cnodejs.sugarac.com)
 
 ### Tech Stack
 
